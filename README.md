@@ -1,7 +1,6 @@
 
 # T440p-Hacintosh
 
-![neofetch 10.15.2](https://github.com/RIC06X/T440p-Hacintosh/blob/master/images/neofetch.png)
 ![this_mac 10.15.2](https://github.com/RIC06X/T440p-Hacintosh/blob/master/images/about_this_mac.png)
 
 ## Support OS
