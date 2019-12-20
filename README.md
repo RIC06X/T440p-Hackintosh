@@ -61,7 +61,7 @@ Please follow guide in <https://www.tonymacx86.com/threads/guide-lenovo-thinkpad
 At the last step of *Add kexts to EFI/Clover/kexts/Other*:
  
 - Please copy all kexts at <https://github.com/RIC06X/T440p-Hackintosh/tree/master/EFI/CLOVER/kexts/Other> to your USB installer's `EFI/Clover/kexts/Other`
-- If you laptop specs is identical with mine, copy my plist at <https://github.com/RIC06X/T440p-Hackintosh/tree/master/EFI/CLOVER>
+- If you laptop specs is identical with mine, copy my `config.plist` at <https://github.com/RIC06X/T440p-Hackintosh/tree/master/EFI/CLOVER>
 
 ### During **Post installation**
 
