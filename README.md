@@ -1,5 +1,5 @@
 
-# T440p-Hacintosh
+# T440p-Hackintosh
 
 ![this_mac 10.15.2](https://github.com/RIC06X/T440p-Hacintosh/blob/master/images/about_this_mac.png)
 
