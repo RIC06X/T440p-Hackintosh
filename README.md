@@ -51,5 +51,23 @@ MacOS Catalina 10.15.2
 ### Catalina Kext Installation 
 
 Follow guide of the Hackintool Method
-
 <https://www.tonymacx86.com/threads/guide-installing-3rd-party-kexts-el-capitan-sierra-high-sierra-mojave-catalina.268964/>
+
+## Installation Guide
+
+Please follow guide in <https://www.tonymacx86.com/threads/guide-lenovo-thinkpad-t440p.233282/> but with few modification in order to get Catalina working
+
+### During **Creating USB Installer** 
+At the last step of *Add kexts to EFI/Clover/kexts/Other*:
+    1. Please copy all kexts at <https://github.com/RIC06X/T440p-Hackintosh/tree/master/EFI/CLOVER/kexts/Other> to your USB installer's `EFI/Clover/kexts/Other`
+    2. If you laptop specs is identical with mine, copy my plist at <https://github.com/RIC06X/T440p-Hackintosh/tree/master/EFI/CLOVER>
+
+### During **Post installation**
+
+the first step *Install kexts into HDD/SSD* should replaced by:
+
+    1. download kexts at <https://github.com/RIC06X/T440p-Hackintosh/tree/master/kexts>
+    2. use Hackintool I mentioned above to install kexts
+
+Follow the rest procedures at tonymacx86 guide, and you are good to go
+
